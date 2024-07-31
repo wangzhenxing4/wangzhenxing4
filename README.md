@@ -45,5 +45,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangzhenxing4&repo=wangzhenxing4&theme=buefy" />
 </a>
 <a href="https://github.com/wangzhenxing4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangzhenxing4.github.io&repo=wangzhenxing4&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangzhenxing4&repo=wangzhenxing4.github.io&theme=buefy" />
 </a>
