@@ -13,7 +13,7 @@
 -  🎓 目前就读于山西职业技术学院，主修移动应用开发专业，对编程语言充满好奇，希望在GitHub社区上，与志同道合的伙伴共同学习、探讨。一个啥都不会的程序猿 and 初出茅庐的初学者
 
 
-<img align="center" src="https://pic.imgdb.cn/item/66bc7ba9d9c307b7e9a2d008.png" style="max-width: 90%;">
+<img align="center" src="zhuye.jpg" style="max-width: 90%;">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wangzhenxing4)
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](2242389481@qq.com)
