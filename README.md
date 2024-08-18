@@ -1,8 +1,6 @@
 <h2 align="center">👋 Hey! I'm WangZhenxing 🐘</h2>
 <br />
 ❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰
-<br />
-<br />
 
 - 🔭 你好呀！童鞋！💡
 
