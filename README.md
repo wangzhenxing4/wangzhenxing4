@@ -16,8 +16,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wangzhenxing4)
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](2242389481@qq.com)
 [![](https://img.shields.io/badge/CSDN-王振兴同学鸭-blue.svg)](https://blog.csdn.net/qq_41723381?type=blog)
-#### 获取更多信息，请前往：<a href="https://wangzhenxing4.github.io/about.html"><img src="https://img.shields.io/badge/" alt=""></a>
-
+#### 获取更多信息，请前往：[![](https://img.shields.io/badge/About-About_Me-green.svg)](https://wangzhenxing4.github.io/about.html)
 [//]: # (![Profile views]&#40;https://views.whatilearened.today/views/github/Xuenew/views.svg&#41;)
 
 [//]: # ()
