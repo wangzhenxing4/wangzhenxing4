@@ -14,7 +14,6 @@
 ## ContactInformation
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wangzhenxing4)
-[![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](2242389481@qq.com)
 [![](https://img.shields.io/badge/CSDN-王振兴同学鸭-blue.svg)](https://blog.csdn.net/qq_41723381?type=blog)
 #### 获取更多信息，请前往：[![](https://img.shields.io/badge/About-About_Me-green.svg)](https://wangzhenxing4.github.io/about.html)
 [//]: # (![Profile views]&#40;https://views.whatilearened.today/views/github/Xuenew/views.svg&#41;)
@@ -37,7 +36,7 @@
 [//]: # (![Elastic]&#40;https://img.shields.io/badge/Elasticsearch-FEC514?style=flat-square&logo=Elastic&logoColor=white&#41;)
 [//]: # (![]&#40;https://img.shields.io/badge/Cocos%20creator-blue.svg&#41;)
 
-![](zhuye.jpg){: style="max-width: 90%;" onclick="event.preventDefault();"}
+<img src="zhuye.jpg" style="max-width: 90%;" alt="">
 
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=wangzhenxing4&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="WangZhenxing's GitHub Stats">
 
