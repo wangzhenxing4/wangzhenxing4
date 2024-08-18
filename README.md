@@ -37,7 +37,7 @@
 [//]: # (![Elastic]&#40;https://img.shields.io/badge/Elasticsearch-FEC514?style=flat-square&logo=Elastic&logoColor=white&#41;)
 [//]: # (![]&#40;https://img.shields.io/badge/Cocos%20creator-blue.svg&#41;)
 
-<img src="zhuye.jpg" style="max-width: 90%;">
+<img src="zhuye.jpg" style="max-width: 90%;" alt="照片描述" onclick="event.preventDefault();">
 
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=wangzhenxing4&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="WangZhenxing's GitHub Stats">
 
