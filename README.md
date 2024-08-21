@@ -2,7 +2,7 @@
 <br />
 ❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰
 
-- 🔭 你好呀！童鞋！💡
+- 🔭 你好鸭！童鞋！💡
 
 - 🤔 这里是王振兴的猫头鹰，啥都不会，想做一个啥都不会的工程师
 
@@ -38,12 +38,11 @@
 
 <img src="zhuye.jpg" style="max-width: 90%;" alt="">
 
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=wangzhenxing4&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="WangZhenxing's GitHub Stats">
-
 ## Top Repositories
 
 <a href="https://github.com/wangzhenxing4/Auxiliary-software-of-shanxi-polytechnic-college">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangzhenxing4&repo=Auxiliary-software-of-shanxi-polytechnic-college&theme=buefy"  alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangzhenxing4&repo=Auxiliary-software-of-shanxi-polytechnic-college&theme=buefy" alt=""/>
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=wangzhenxing4&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="WangZhenxing's GitHub Stats">
 </a>
 
 
